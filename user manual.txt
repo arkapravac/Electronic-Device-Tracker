@@ -1,0 +1,30 @@
+Electronics Tracker - User Manual
+
+Welcome to the Electronics Tracker application! This manual will guide you through the basic setup and usage of the software.
+
+1. Installation
+   - Ensure Python 3.8 or higher is installed
+   - Install required dependencies by running:
+     pip install -r requirements.txt
+
+2. Starting the Application
+   - Run the main application file:
+     python electronics_tracker.py
+
+3. Basic Features
+   - Add new electronics items to your inventory
+   - Track item locations and status
+   - View detailed information about each item
+   - Generate inventory reports
+
+4. Navigation
+   - Use the menu system to access different features
+   - Follow on-screen prompts for specific actions
+
+
+5. Support
+   For additional help, please contact:
+   arkapravac3662gmail.com
+   LinkedIn: https://www.linkedin.com/in/arkaprava-chakraborty-8b9a2b283/
+
+Version 1.0
